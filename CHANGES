@@ -1,0 +1,15 @@
+Version 0.1 - pybtchat by Angelo Poerio <angelo.poerio@gmail.com>
+
+Version 0.1.1 - Some improvements of the GUI
+
+Version 0.2.0 - All the GUI has been rewritten using glade 
+		Cleaning of the code
+
+Version 0.2.1 - Small improvements of the GUI
+
+Version 0.2.2 - fixed a bug that makes pybtchat hang on exit 
+
+Version 0.2.3 - fixed some minor bugs 
+		Added support for notifications (thanks to pynotify module)
+		A new icon for the program
+		Improved threading
